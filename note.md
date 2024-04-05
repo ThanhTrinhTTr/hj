@@ -34,7 +34,7 @@ Yêu cầu: Giả sử ban đầu An đứng ở vị trí đầu tiên trên d�
 ## Giải thích :
 -   Dưới đây là cách để An gieo hạt với thời gian ít nhất trong ví dụ đầu tiên:
        +   Từ vị trí 1 đến vị trí 2: Đi hết 1 đơn vị thời gian.
-       +   Tại vị trí thứ 2 : Vì đây không phải “Trạm phát giống” nên An gieo hạt tại đây. Sau khi gieo hạt, số hạt trong túi đã hết nên An cần về “Trạm phát giống” trước đó (tại điểm 1) để lấy hạt : Mất 1 đơn vị thời gian để di chuyển từ vị trí 2 về vị trí 1 và quay trở lại vị trí 2.
+       +   Tại vị trí thứ 2 : Vì đây không phải “Trạm phát giống” nên An gieo hạt tại đây. Sau khi gieo hạt, số hạt trong túi đã hết nên An cần về “Trạm phát giống” trước đó (tại điểm 1) để lấy hạt : Mất 2 đơn vị thời gian để di chuyển từ vị trí 2 về vị trí 1 và quay trở lại vị trí 2.
        +   Từ vị trí 2 đến vị trí 3 : Đi hết 1 đơn vị thời gian.
        +   Tại vị trí thứ 3 : An gieo hạt giống. Dù số hạt trong túi đã hết nhưng điểm tiếp theo trên đường đi là “Trạm phát giống” nên An có thể lấy hạt ở điểm tiếp theo. Vì thế, An không cần quay lại điểm trước đó để lấy hạt.
        +   Từ vị trí 3 đến vị trí 4 : Đi hết 1 đơn vị thời gian.
