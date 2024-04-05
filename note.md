@@ -10,24 +10,24 @@ Yêu cầu: Giả sử ban đầu An đứng ở vị trí đầu tiên trên d�
 
 ## Output
 #### Ghi vào tệp TRONGCAM.OUT gồm một dòng duy nhất là thời gian ngắn nhất để có thể gieo hạt trên tất cả các điểm ngoại trừ “Trạm phát giống”. Nếu không tồn tại cách gieo hạt trên mảnh đất thì in ra -1.
-## Sample Input 1 
+### Sample Input 1 
 ```
 4 2 1
 1 4
 ```
 
-## Sample Output 1
+### Sample Output 1
 ```
 5
 ```
-## Sample Input 2 
+### Sample Input 2 
 ```
 1 1 1
 1
 
 ```
 
-## Sample Output 
+### Sample Output 2 
 ```
 -1
 ```
