@@ -21,7 +21,7 @@ Ghi ra tổng ~A + B~.
 ```
 
 ## Subtask
-- ~30\%~ số test có ~A \le 100~
+- 30% số test có ~A \le 100~
 - ~30\%~ số test tiếp theo có ~A \le 500~
 - ~40\%~ số test còn lại không có điều kiện gì thêm
 
